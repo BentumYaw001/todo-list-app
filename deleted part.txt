@@ -1,0 +1,12 @@
+<div class="task">
+                    <div class="content">
+                        <input type="text"
+                         class="text" 
+                         value=""
+                         readonly
+                         />
+                    </div>
+                    <div class="actions">
+                        <button class="edit">Edit</button>
+                        <button class="delete">Delete</button>                                  
+</div>
